@@ -29,7 +29,8 @@ No reconciled record has a total difference or a per-line difference.
 Before the fixes, 7 Summary lines disagreed, the Payments column was 120,246.56 away
 from Amazon's total, and 6,942 reconciled records had their amounts on different
 lines on each side. `MAPPING_FIXES.sql` and [PROGRESS.md](PROGRESS.md) document every
-defect, its root cause and the fix. The before and after reports are in `out/`.
+defect, its root cause and the fix. The before and after reports and the database dump
+are shared separately (link in the submission email), because they contain buyer order data.
 
 ---
 
