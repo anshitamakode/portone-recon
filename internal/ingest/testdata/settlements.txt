@@ -1,0 +1,6 @@
+settlement-id	settlement-start-date	settlement-end-date	deposit-date	total-amount	currency	transaction-type	order-id	merchant-order-id	adjustment-id	shipment-id	marketplace-name	amount-type	amount-description	amount	fulfillment-id	posted-date	posted-date-time	order-item-code	merchant-order-item-id	merchant-adjustment-item-id	sku	quantity-purchased	promotion-id
+111	17.07.2026 07:06:34 UTC	31.07.2026 07:06:35 UTC	02.08.2026 07:06:35 UTC	13.53	AUD																		
+111						Order	249-1	249-1		S1	Amazon.com.au	ItemPrice	Principal	19.67	AFN	19.07.2026	19.07.2026 16:00:00 UTC	1			SKU-A	1	
+111						Order	249-1	249-1		S1	Amazon.com.au	ItemPrice	Tax	2.00	AFN	19.07.2026	19.07.2026 16:00:00 UTC	1			SKU-A	1	
+111						Order	249-1	249-1		S1	Amazon.com.au	ItemFees	FBAPerUnitFulfillmentFee	-6.17	AFN	19.07.2026	19.07.2026 16:00:00 UTC	1			SKU-A	1	
+111						Order	249-1	249-1		S1	Amazon.com.au	Promotion	Principal	-1.97	AFN	19.07.2026	19.07.2026 16:00:00 UTC	1			SKU-A	1	

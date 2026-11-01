@@ -1,0 +1,8 @@
+# input files and outputs contain marketplace order data (order ids, buyer city/postcode):
+# share them privately with the reviewers, do not publish them
+/data/*
+!/data/README.md
+/out/*
+!/out/.gitkeep
+/bin/
+.DS_Store

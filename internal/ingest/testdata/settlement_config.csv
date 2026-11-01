@@ -1,0 +1,5 @@
+transaction_type,amount_type,amount_description,record_ref,to_summary_field_when_positive_amount,to_summary_field_when_negative_amount
+ORDER,ITEMPRICE,PRINCIPAL,txn_ref+sku+date,sales_product_charges,sales_product_charges
+ORDER,ITEMPRICE,TAX,txn_ref+sku+date,sales_product_charges,sales_product_charges
+ORDER,ITEMFEES,FBAPERUNITFULFILLMENTFEE,txn_ref+sku+date,expenses_amazon_fees,expenses_amazon_fees
+ORDER,PROMOTION,PRINCIPAL,txn_ref+sku+date,expenses_promotional_rebates,expenses_promotional_rebates

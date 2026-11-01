@@ -1,0 +1,8 @@
+"Includes Amazon Marketplace, Fulfilment by Amazon (FBA) and Amazon Webstore transactions"
+"All amounts in AUD, unless specified"
+"date/time","settlement ID","type","order ID","sku","description","quantity","marketplace","fulfilment","order city","order state","order postal","product sales","shipping credits","gift wrap credits","promotional rebates","sales tax collected","low value goods","selling fees","fulfilment by amazon fees","other transaction fees","other","total","Transaction status","Transaction Release Date"
+"9 July 2026 9:08:05 am GMT+9","111","Order","249-1","SKU-A","Mask","1","amazon.com.au","Amazon","X","NSW","2000","19.67","0","0","-1.97","2.00","0","0","-6.17","0","0","13.53","Released","20 July 2026 1:00:00 am GMT+9"
+"10 July 2026 9:00:00 am GMT+9","111","Order","249-2","SKU-B","Mask","1","amazon.com.au","Amazon","X","NSW","2000","10.00","0","0","0","0","0","0","0","0","0","10.00","Deferred",""
+"10 July 2026 9:00:00 am GMT+9","999","Order","249-3","SKU-B","Mask","1","amazon.com.au","Amazon","X","NSW","2000","5.00","0","0","0","0","0","0","0","0","0","5.00","Released","11 July 2026 9:00:00 am GMT+9"
+"18 July 2026 4:17:09 pm GMT+9","111","Transfer","","","To account ending with: 334","","","","","","","0","0","0","0","0","0","0","0","0","-100.00","-100.00","Released","18 July 2026 4:17:09 pm GMT+9"
+"18 July 2026 5:00:00 pm GMT+9","111","Order","249-4","SKU-C","Mask","1","amazon.com.au","Amazon","X","NSW","2000","0","0","0","0","0","0","0","0","0","0","0","Released","18 July 2026 5:00:00 pm GMT+9"
